@@ -1,0 +1,12 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "api de rotas e crud ",
+  "main": "index.js",
+  "author": "Everton Souza",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
