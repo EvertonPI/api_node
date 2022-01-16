@@ -6,7 +6,9 @@
   "author": "Everton Souza",
   "license": "MIT",
   "private": false,
+  "type": "module",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
   }
 }
